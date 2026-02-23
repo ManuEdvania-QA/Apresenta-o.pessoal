@@ -23,7 +23,6 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ## 🎥 Apresentação Pessoal
 [Assista ao vídeo aqui](https://www.youtube.com/shorts/dmDI3FjW4m8)
 ```markdown
-# Apresentação pessoal sobre mim
 
 ## 📒 Descrição
 Este projeto foi criado para compartilhar um pouco sobre mim, trazendo um breve resumo da minha vida pessoal, da minha paixão por tecnologia, do carinho que tenho pelos meus animais e das mudanças que realizei ao longo da minha trajetória.

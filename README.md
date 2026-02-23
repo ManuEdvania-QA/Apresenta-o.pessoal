@@ -47,6 +47,12 @@ Expressão pessoal: você conseguiu transformar momentos da sua vida em conteúd
 O maior desafio foi encontrar ferramentas gratuitas que possibilitassem a criação com o resultado que eu buscava. No entanto, consegui superar essa etapa e, por fim, trazer um pouco da ideia que tinha em mente.
 ```
 
+## 🎥 Meu Vídeo
+<h2>🎥 Apresentação Pessoal</h2>
+<video src="assets/Apresentacao_pessoal.mp4" width="600" controls>
+Seu navegador não suporta vídeo.
+</video>
+
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)

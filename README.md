@@ -20,22 +20,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Apresentação pessoal sobre mim
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foi criado para compartilhar um pouco sobre mim, trazendo um breve resumo da minha vida pessoal, da minha paixão por tecnologia, do carinho que tenho pelos meus animais e das mudanças que realizei ao longo da minha trajetória.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: utilizado para a criação da imagem.
+Dreamface: usado para a interação da imagem com a fala.
+AI Free Video: aplicado para dar movimento à imagem.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro, criei uma imagem no ChatGPT a partir de uma foto minha de inspiração. Em seguida, desenvolvi quatro cenários:
+1️⃣ O primeiro para a interação inicial.
+2️⃣ O segundo com os meus animais.
+3️⃣ O terceiro no local onde moro atualmente.
+4️⃣ O quarto com a interação entre a foto de inspiração e a animação
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Expressão pessoal: você conseguiu transformar momentos da sua vida em conteúdo criativo, mostrando sua identidade e trajetória.
+• 	Integração com tecnologia: ao usar ferramentas de IA (ChatGPT, Dreamface, AI Free Video), você deu vida às suas memórias e paixões, tornando-as interativas e dinâmicas.
+• 	Valorização dos animais e da mudança de vida: o projeto transmite carinho pelos seus animais e destaca a transição que você viveu, reforçando autenticidade.
+• 	Portfólio criativo: além de ser um exercício pessoal, o projeto funciona como uma vitrine de suas habilidades em explorar IA generativa para contar histórias.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O maior desafio foi encontrar ferramentas gratuitas que possibilitassem a criação com o resultado que eu buscava. No entanto, consegui superar essa etapa e, por fim, trazer um pouco da ideia que tinha em mente.
 ```
 
 ### Exemplos e Insigths
